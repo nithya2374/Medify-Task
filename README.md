@@ -16,7 +16,7 @@ Ensure you have the following installed before proceeding:
 ### 🔗 Clone the Repository
 Start by cloning the repository to your local machine:
 ```bash
-git clone https://github.com/nilavanan-ver-4/Medify-Assignment.git
+git clone https://github.com/nithya2374/Medify-Task.git
 cd Medify-Assignment
 ```
 
