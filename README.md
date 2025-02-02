@@ -38,6 +38,7 @@ docker run -p 5000:5000 python-docker-app
 ## 📂 **Project Structure**
 ```plaintext
 Medify-Assignment
+├── LICENSE
 ├── Dockerfile         # Defines how to build the Docker image
 ├── code.py            # Main Python script for the application
 ├── requirements.txt   # List of dependencies for Python
